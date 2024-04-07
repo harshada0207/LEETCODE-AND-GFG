@@ -13,9 +13,9 @@ public:
     while (!countMap.empty()) {
         // Find the smallest card value in the current group
         int start = countMap.begin()->first;
-
+          int i=start;
         // Check if it's possible to form a group starting from 'start'
-        for (int i = start; i < start + groupSize; i++) {
+        while(i<groupSize+start) {
             if (countMap.find(i) == countMap.end() || countMap[i] == 0) {
                 // If any card value is missing or its count is 0, return false
                 return false;
@@ -26,6 +26,7 @@ public:
                 // If count becomes 0, erase the entry from the map
                 countMap.erase(i);
             }
+            i++;
         }
     }
 
