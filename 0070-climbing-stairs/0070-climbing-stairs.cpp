@@ -1,22 +1,20 @@
 class Solution {
 public:
-int stairs(int n,vector<int>&dp)
-    {
+        
+    int climbStairs(int n) {
         if(n<=2)
         {
             return n;
         }
-        if(dp[n]!=-1)
+        int prev2=1;
+        int prev=2;
+        for(int i=3;i<=n;i++)
         {
-            return dp[n];
+            int curr=prev+prev2;
+            prev2=prev;
+            prev=curr;
         }
-        return dp[n]=stairs(n-1,dp)+stairs(n-2,dp);
-    }
-        
-    int climbStairs(int n) {
-        vector<int>dp(n+1,-1);
-        int ans=stairs(n,dp);
-        return ans;
+        return prev;
        
         
     }
