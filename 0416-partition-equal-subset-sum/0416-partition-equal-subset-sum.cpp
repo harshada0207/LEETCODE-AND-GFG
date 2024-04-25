@@ -38,7 +38,7 @@ public:
         {
             dp[i][0]=true;
         }
-        if(nums[0]<=k)
+        if(nums[0]==k)
             {dp[0][nums[0]]=true;}
         
         for(int i=1;i<nums.size();i++)
