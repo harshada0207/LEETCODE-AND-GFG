@@ -33,28 +33,29 @@ public:
             return false;
         }
         int k=sum/2;
-        vector<vector<bool>>dp(nums.size(),vector<bool>(k+1,false));
-        for(int i=0;i<nums.size();i++)
-        {
-            dp[i][0]=true;
-        }
+        vector<bool>prev(k+1,false);
+        vector<bool>curr(k+1,false);
+      
+        prev[0]=curr[0]=true;
+        
         if(nums[0]==k)
-            {dp[0][nums[0]]=true;}
+            {prev[nums[0]]=true;}//kyuki dp[i-1] pe jaate hai apn humesha
         
         for(int i=1;i<nums.size();i++)
         {
             for(int target=1;target<=k;target++)
             {
-                bool not_take=dp[i-1][target];
+                bool not_take=prev[target];
                 bool take=false;
                 if(nums[i]<=target)
                  {
-                     take=dp[i-1][target-nums[i]];
+                     take=prev[target-nums[i]];
                 }
-                dp[i][target]=(take||not_take);
+                curr[target]=(take||not_take);
             }
+            prev=curr;
         }
-        return dp[nums.size()-1][k];
+        return prev[k];
         
     }
 };
