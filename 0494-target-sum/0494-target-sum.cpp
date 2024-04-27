@@ -2,16 +2,18 @@ class Solution {
     private:
     int solve(vector<int>& nums, int target,int ind,int sum)
     {   
-       if(ind<0)
+       if(ind==0)
        {
-        if(sum==target)
-        {
+           if(sum+nums[0]==target && sum-nums[0]==target)
+          {
+            return 2;
+           }
+           else if(sum+nums[0]==target || sum-nums[0]==target)
+           {
             return 1;
-        }
-        else
-        {
-            return 0;
-        }
+           }
+           
+         return 0;
        }
       
        int left = solve(nums,target,ind-1,sum-nums[ind]);
