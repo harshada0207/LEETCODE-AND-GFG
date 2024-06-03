@@ -20,6 +20,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0485-max-consecutive-ones) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1993-sum-of-all-subset-xor-totals) |
 # Divide and Conquer
@@ -32,6 +33,7 @@
 | [0075-sort-colors](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0435-non-overlapping-intervals) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 # Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0435-non-overlapping-intervals) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
@@ -80,3 +83,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1993-sum-of-all-subset-xor-totals) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0435-non-overlapping-intervals) |
