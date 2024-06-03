@@ -17,6 +17,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0485-max-consecutive-ones) |
 # Divide and Conquer
 |  |
 | ------- |
