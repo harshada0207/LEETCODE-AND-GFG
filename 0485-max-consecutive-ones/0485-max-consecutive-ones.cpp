@@ -9,7 +9,8 @@ public:
         {
             if(nums[j]==1)
             {
-                 count++;
+                
+                  maxi=max(maxi,j-i+1);
             }
             else
             {
@@ -19,9 +20,9 @@ public:
                     
                 }
                 i++;
-                count=0;
+                 maxi=max(maxi,j-i+1);
             }
-            maxi=max(maxi,count);
+           
             j++;
         }
         return maxi;
