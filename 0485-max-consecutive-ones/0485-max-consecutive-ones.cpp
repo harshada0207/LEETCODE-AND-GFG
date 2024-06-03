@@ -19,7 +19,7 @@ public:
                     i++;
                     
                 }
-                i++;
+                i=j+1;
                  maxi=max(maxi,j-i+1);
             }
            
