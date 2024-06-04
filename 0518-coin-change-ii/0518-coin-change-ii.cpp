@@ -1,6 +1,6 @@
 class Solution {
 public:
-     int coinscount(int ind,vector<int>& coins, int amount, vector<vector<int>>&dp)
+    int solve(vector<int>& coins,int amount,int ind, vector<vector<int>>&dp)
     {
         if(ind<0)
         {
@@ -14,20 +14,17 @@ public:
         {
             return dp[ind][amount];
         }
-        int not_take=coinscount(ind-1,coins,amount,dp);
-        int take =0;
+        int take=0;
         if(coins[ind]<=amount)
         {
-            take=coinscount(ind,coins,amount-coins[ind],dp);
+            take=solve(coins,amount-coins[ind],ind,dp);
         }
-        return dp[ind][amount]=take+not_take;
+        int nottake=solve(coins,amount,ind-1,dp);
+        return dp[ind][amount]= take+nottake;
     }
     int change(int amount, vector<int>& coins) {
-         int n=coins.size();
+        int n=coins.size();
         vector<vector<int>>dp(n,vector<int>(amount+1,-1));
-       int ans =  coinscount(n-1,coins,amount,dp);
-        return ans;
-
-        
+        return solve(coins,amount,n-1,dp);
     }
 };
