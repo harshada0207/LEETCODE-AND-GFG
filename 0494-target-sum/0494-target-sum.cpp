@@ -1,7 +1,8 @@
 class Solution {
 public:
-    int solve(vector<int>& nums, int target,int ind)
+    int solve(vector<int>& nums, int target,int ind,vector<vector<int>>&dp)
     {
+        
         if(ind<0)
         {
             if(target==0)
@@ -10,12 +11,17 @@ public:
             }
             return 0;
         }
-        int left=solve(nums,target+nums[ind],ind-1);
-        int right=solve(nums,target-nums[ind],ind-1);
-        return left+right;
+        if(dp[ind][target+2000]!=-1)
+        {
+            return dp[ind][target+2000];
+        }
+        int left=solve(nums,target+nums[ind],ind-1,dp);
+        int right=solve(nums,target-nums[ind],ind-1,dp);
+        return dp[ind][target+2000]=left+right;
     }
     int findTargetSumWays(vector<int>& nums, int target) {
         int n=nums.size();
-        return solve(nums,target,n-1);
+        vector<vector<int>>dp(n,vector<int>(4001,-1));
+        return solve(nums,target,n-1,dp);
     }
 };
