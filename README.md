@@ -7,6 +7,7 @@
 | [0075-sort-colors](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -23,6 +24,7 @@
 | [0435-non-overlapping-intervals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0485-max-consecutive-ones) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2271-rearrange-array-elements-by-sign) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -87,3 +89,7 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0435-non-overlapping-intervals) |
+# Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2271-rearrange-array-elements-by-sign) |
