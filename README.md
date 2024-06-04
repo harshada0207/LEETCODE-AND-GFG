@@ -19,6 +19,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0084-largest-rectangle-in-histogram) |
+| [0135-candy](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0435-non-overlapping-intervals) |
@@ -47,6 +48,7 @@
 # Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0435-non-overlapping-intervals) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
