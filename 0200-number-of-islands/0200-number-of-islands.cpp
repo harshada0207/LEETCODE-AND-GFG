@@ -6,14 +6,8 @@ public:
         int n=grid.size();
         int m=grid[0].size();
        // cout<<i<<" "<<j;
-        queue<pair<int,int>>q;
-        q.push({i,j});
-         //cout<<"it"<<1;
-        while(!q.empty())
-        {
-            int k=q.front().first;
-            int l=q.front().second;
-            q.pop();
+        
+       
             for(int drow=-1;drow<=1;drow++)
             {
                 for(int dcol=-1;dcol<=1;dcol++)
@@ -22,17 +16,15 @@ public:
                     {
                         continue;
                     }
-                    int nrow=k+drow;
-                    int ncol=l+dcol;
+                    int nrow=i+drow;
+                    int ncol=j+dcol;
                     if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && !vis[nrow][ncol] && grid[nrow][ncol]=='1')
                     {
-                        vis[nrow][ncol]=1;
-                        q.push({nrow,ncol});
-                        cout<<"push"<<nrow<<ncol;
+                        bfs(nrow,ncol,vis,grid);
                     }
                 }
             }
-        }
+        
     }
     int numIslands(vector<vector<char>>& grid) {
         int n=grid.size();
