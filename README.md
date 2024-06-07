@@ -21,6 +21,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0084-largest-rectangle-in-histogram) |
+| [0128-longest-consecutive-sequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -61,6 +62,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0128-longest-consecutive-sequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0648-replace-words) |
@@ -116,3 +118,7 @@
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0648-replace-words) |
+# Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0128-longest-consecutive-sequence) |
