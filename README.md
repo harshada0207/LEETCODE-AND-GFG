@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0344-reverse-string) |
+| [0648-replace-words](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
@@ -28,6 +29,7 @@
 | [0494-target-sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0560-subarray-sum-equals-k) |
+| [0648-replace-words](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1044-find-common-characters) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -61,6 +63,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0560-subarray-sum-equals-k) |
+| [0648-replace-words](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1044-find-common-characters) |
 # Binary Search
 |  |
@@ -109,3 +112,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0560-subarray-sum-equals-k) |
+# Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0648-replace-words) |
