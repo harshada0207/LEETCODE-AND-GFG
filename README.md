@@ -30,6 +30,7 @@
 | [0485-max-consecutive-ones](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1044-find-common-characters) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0128-longest-consecutive-sequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0523-continuous-subarray-sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1044-find-common-characters) |
@@ -83,6 +85,7 @@
 # Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0523-continuous-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1993-sum-of-all-subset-xor-totals) |
 # Backtracking
 |  |
@@ -114,6 +117,7 @@
 # Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0560-subarray-sum-equals-k) |
 # Trie
 |  |
