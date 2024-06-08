@@ -4,6 +4,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -19,6 +20,7 @@
 # Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0128-longest-consecutive-sequence) |
