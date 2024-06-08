@@ -37,6 +37,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0648-replace-words) |
 | [0733-flood-fill](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1044-find-common-characters) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -143,11 +144,13 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1036-rotting-oranges) |
 # Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1036-rotting-oranges) |
 # Counting Sort
 |  |
 | ------- |
