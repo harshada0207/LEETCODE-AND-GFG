@@ -37,6 +37,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0648-replace-words) |
 | [0733-flood-fill](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0733-flood-fill) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1044-find-common-characters) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -75,6 +76,7 @@
 | [0523-continuous-subarray-sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0648-replace-words) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1044-find-common-characters) |
 # Binary Search
 |  |
@@ -125,6 +127,7 @@
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1016-subarray-sums-divisible-by-k) |
 # Trie
 |  |
 | ------- |
