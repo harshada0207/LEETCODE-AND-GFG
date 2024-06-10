@@ -32,6 +32,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0215-kth-largest-element-in-an-array) |
@@ -155,15 +156,18 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0200-number-of-islands) |
 # Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0733-flood-fill) |
 # Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0733-flood-fill) |
@@ -171,6 +175,7 @@
 # Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0733-flood-fill) |
