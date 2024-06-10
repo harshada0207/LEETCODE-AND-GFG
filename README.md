@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -25,6 +26,7 @@
 | [0015-3sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0118-pascals-triangle) |
@@ -94,10 +96,12 @@
 # Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 # Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 # Math
 |  |
@@ -124,6 +128,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0118-pascals-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0494-target-sum) |
