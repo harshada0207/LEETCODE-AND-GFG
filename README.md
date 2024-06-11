@@ -9,6 +9,7 @@
 | [0031-next-permutation](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -30,6 +31,7 @@
 | [0056-merge-intervals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0130-surrounded-regions) |
@@ -66,6 +68,7 @@
 | [0018-4sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
