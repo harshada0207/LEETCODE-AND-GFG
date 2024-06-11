@@ -20,6 +20,7 @@
 | [0344-reverse-string](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0344-reverse-string) |
 | [0648-replace-words](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1044-find-common-characters) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
 |  |
@@ -102,6 +103,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1217-relative-sort-array) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1890-sum-of-beauty-of-all-substrings) |
 # Binary Search
 |  |
 | ------- |
@@ -201,3 +203,4 @@
 | [0274-h-index](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0274-h-index) |
 | [1137-height-checker](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1217-relative-sort-array) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1890-sum-of-beauty-of-all-substrings) |
