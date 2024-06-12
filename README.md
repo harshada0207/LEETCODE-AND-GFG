@@ -171,6 +171,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0200-number-of-islands) |
+| [0801-is-graph-bipartite](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1073-number-of-enclaves) |
 # Depth-First Search
 |  |
@@ -178,6 +179,7 @@
 | [0130-surrounded-regions](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1073-number-of-enclaves) |
 # Breadth-First Search
 |  |
@@ -186,6 +188,7 @@
 | [0200-number-of-islands](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1073-number-of-enclaves) |
 # Matrix
@@ -204,3 +207,7 @@
 | [1137-height-checker](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1217-relative-sort-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1890-sum-of-beauty-of-all-substrings) |
+# Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0801-is-graph-bipartite) |
