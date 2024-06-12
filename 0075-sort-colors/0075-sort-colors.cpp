@@ -20,7 +20,7 @@ public:
            {
              swap(nums[high],nums[mid]);
              high--;
-             
+             //jo swap hua uski checking reh jati isiliye yaha mid++ nahi kia.
              
            }
         }
