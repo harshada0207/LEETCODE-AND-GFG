@@ -59,6 +59,7 @@
 | [1073-number-of-enclaves](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1073-number-of-enclaves) |
 | [1137-height-checker](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1217-relative-sort-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -115,6 +116,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0035-search-insert-position) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Stack
 |  |
 | ------- |
