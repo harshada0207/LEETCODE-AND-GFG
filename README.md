@@ -32,6 +32,7 @@
 | [0035-search-insert-position](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0088-merge-sorted-array) |
