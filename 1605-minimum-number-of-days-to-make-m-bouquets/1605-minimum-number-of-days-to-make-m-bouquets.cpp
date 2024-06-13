@@ -40,11 +40,13 @@ public:
     int minDays(vector<int>& bloomDay, int m, int k) {
         int n=bloomDay.size();
         int maxi=0;
+        int mini=INT_MAX;
         for(auto it:bloomDay)
         {
             maxi=max(maxi,it);
+            mini=min(mini,it);
         }
-         int low=1;
+         int low=mini;
          int high=maxi;
          int ans=-1;
          while(low<=high)
