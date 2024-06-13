@@ -12,22 +12,18 @@ public:
             v.push_back({intervals[i][0],intervals[i][1]});
         }
         sort(v.begin(),v.end(),cmp);
-        int count=0;
-        pair<int,int>c={v[0].first,v[0].second};
-
+        int count=1;
+        int free=v[0].second;
         for(int i=1;i<v.size();i++)
         {
-            if(v[i].first<c.second)
+            if(v[i].first>=free)
             {
                  count++;
-
+                 free=v[i].second;
             }
-            else
-            {
-                c={v[i].first,v[i].second};
-            }
+           
         }
-        return count;
+        return v.size()-count;
 
         
     }
