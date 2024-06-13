@@ -51,6 +51,7 @@
 | [0542-01-matrix](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0648-replace-words) |
+| [0695-max-area-of-island](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0733-flood-fill) |
 | [0940-fruit-into-baskets](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -180,6 +181,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1073-number-of-enclaves) |
 # Depth-First Search
@@ -187,6 +189,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1073-number-of-enclaves) |
@@ -196,6 +199,7 @@
 | [0130-surrounded-regions](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1036-rotting-oranges) |
@@ -206,6 +210,7 @@
 | [0130-surrounded-regions](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1073-number-of-enclaves) |
