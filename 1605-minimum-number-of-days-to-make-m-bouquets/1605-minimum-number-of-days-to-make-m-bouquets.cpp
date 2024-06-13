@@ -3,33 +3,41 @@ public:
     bool func(vector<int>& bloomDay,int ind, int m, int k)
     {
         int j=0;
-        int i=0;
+     
+        int counter=0;
+        
         while(j<bloomDay.size())
              {
                 if(bloomDay[j]<=ind)
                 {
-                    if(j-i+1==k)
-                    {
-                        m--;
-                        j++;
-                        i=j;
-                    }
+                    counter++;
+                    j++;
 
-                    else
-                    {
-                        j++;
-                    }
+                    
                 }
                 else
                 {
-                   
-                    
-                    j++;
-                    i=j;
-
+                   if(counter==k)
+                   {
+                       m--;
+                   }
+                   else if(counter>k)
+                   {
+                     m-=(counter/k);
+                   }
+                   counter=0;
+                   j++;
                 }
 
              }
+              if(counter==k)
+                   {
+                       m--;
+                   }
+                   else if(counter>k)
+                   {
+                     m-=(counter/k);
+                   }
              if(m<=0)
              {
                 return 1;
