@@ -2,16 +2,16 @@ class Solution {
 public:
     bool func(int mid,vector<int>& nums, int threshold)
     {
-        int sum=0;
+        double sum=0;
         for(int i=0;i<nums.size();i++)
         {
              if(nums[i]%mid==0)
              {
-                sum+=(nums[i]/mid);
+                sum+=(double)(nums[i]/mid);
              }
              else
              {
-                sum+=((nums[i]/mid)+1);
+                sum+=(double)((nums[i]/mid)+1);
              }
         }
         if(sum<=threshold)
