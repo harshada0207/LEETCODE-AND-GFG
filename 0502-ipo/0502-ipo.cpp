@@ -8,11 +8,7 @@ public:
             v.push_back({capital[i],profits[i]});
         }
         sort(v.begin(),v.end());
-        for(int i=0;i<n;i++)
-        {
-           cout<<"("<< v[i].first<<" "<<v[i].second<<")";
-        }
-        cout<<endl;
+      
         priority_queue<pair<int,int>>pq;
         int ind=0;
         int profit=0;
