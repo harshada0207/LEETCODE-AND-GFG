@@ -47,6 +47,7 @@
 | [0435-non-overlapping-intervals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0494-target-sum) |
+| [0502-ipo](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0542-01-matrix) |
@@ -85,6 +86,7 @@
 | [0274-h-index](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0435-non-overlapping-intervals) |
+| [0502-ipo](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1217-relative-sort-array) |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0502-ipo) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1962-single-threaded-cpu](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1962-single-threaded-cpu) |
 # Quickselect
@@ -106,6 +109,7 @@
 | ------- |
 | [0135-candy](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0435-non-overlapping-intervals) |
+| [0502-ipo](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
