@@ -22,6 +22,7 @@
 | [1044-find-common-characters](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1044-find-common-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 # Array
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0502-ipo](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0502-ipo) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1962-single-threaded-cpu](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1962-single-threaded-cpu) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 # Quickselect
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 # Hash Table
 |  |
 | ------- |
@@ -129,6 +132,7 @@
 | [1044-find-common-characters](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1217-relative-sort-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 # Binary Search
 |  |
 | ------- |
@@ -143,6 +147,7 @@
 | [0042-trapping-rain-water](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0085-maximal-rectangle) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 # Monotonic Stack
 |  |
 | ------- |
