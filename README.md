@@ -64,6 +64,7 @@
 | [1044-find-common-characters](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1044-find-common-characters) |
 | [1073-number-of-enclaves](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1073-number-of-enclaves) |
 | [1137-height-checker](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1137-height-checker) |
+| [1138-grumpy-bookstore-owner](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1217-relative-sort-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -261,6 +262,7 @@
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0940-fruit-into-baskets) |
+| [1138-grumpy-bookstore-owner](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1138-grumpy-bookstore-owner) |
 # Topological Sort
 |  |
 | ------- |
