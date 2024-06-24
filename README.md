@@ -45,6 +45,7 @@
 | [0200-number-of-islands](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0274-h-index) |
+| [0300-longest-increasing-subsequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0485-max-consecutive-ones) |
@@ -147,6 +148,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0035-search-insert-position) |
+| [0300-longest-increasing-subsequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -194,6 +196,7 @@
 | [0042-trapping-rain-water](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0118-pascals-triangle) |
+| [0300-longest-increasing-subsequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0518-coin-change-ii) |
