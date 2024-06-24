@@ -2,22 +2,17 @@ class Solution {
 public:
    int solve(int mid,vector<int>& weights, int days)
    {
-        int count=0;
+        int count=1;
         int sum=0;
         int j=0;
         while(j<weights.size())
         {
               sum+=weights[j];
-              if(sum==mid)
+              if(sum>mid)
               {
-                sum=0;
+                sum=weights[j];
                 count++;
                 j++;
-              }
-              else if(sum>mid)
-              {
-                count++;
-                sum=0;
               }
               else
               {
@@ -25,8 +20,8 @@ public:
               }
 
         }
-        if(sum!=0 && sum<mid)
-        {count++;}
+        // if(sum!=0 && sum<mid)
+        // {count++;}
         if(count>days)
         {
             return false;
