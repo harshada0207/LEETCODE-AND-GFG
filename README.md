@@ -62,6 +62,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1044-find-common-characters) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1073-number-of-enclaves) |
 | [1137-height-checker](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1138-grumpy-bookstore-owner) |
@@ -144,6 +145,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0035-search-insert-position) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Stack
