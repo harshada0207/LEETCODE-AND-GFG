@@ -75,6 +75,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 | [1044-find-common-characters](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1217-relative-sort-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 # Binary Search
 |  |
@@ -255,6 +257,7 @@
 | [1137-height-checker](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1217-relative-sort-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 # Graph
 |  |
 | ------- |
