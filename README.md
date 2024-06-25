@@ -48,6 +48,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0494-target-sum) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -152,6 +154,7 @@
 | [0035-search-insert-position](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0410-split-array-largest-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -201,6 +204,7 @@
 | [0118-pascals-triangle](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0518-coin-change-ii) |
@@ -213,6 +217,7 @@
 # Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1016-subarray-sums-divisible-by-k) |
