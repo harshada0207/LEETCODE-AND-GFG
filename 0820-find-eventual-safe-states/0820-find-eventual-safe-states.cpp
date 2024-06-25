@@ -3,22 +3,18 @@ public:
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         int v=graph.size();
         vector<vector<int>>revGraph(v);
+        vector<int>indegree(v,0);
         for(int i=0;i<v;i++)
         {
             for(auto it:graph[i])
            {  
               revGraph[it].push_back(i);
+              indegree[i]++;
            
            }
         }
-         vector<int>indegree(v,0);
-        for(int i=0;i<v;i++)
-        {
-            for(auto it:revGraph[i])
-            { 
-                indegree[it]++;
-            }
-        }
+         
+     
         queue<int>q;
         for(int i=0;i<v;i++)
         {
