@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1129-longest-string-chain](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1129-longest-string-chain) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
@@ -20,6 +21,7 @@
 | [0344-reverse-string](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0344-reverse-string) |
 | [0648-replace-words](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1044-find-common-characters) |
+| [1129-longest-string-chain](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1129-longest-string-chain) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -67,6 +69,7 @@
 | [1044-find-common-characters](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1044-find-common-characters) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1073-number-of-enclaves) |
+| [1129-longest-string-chain](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1129-longest-string-chain) |
 | [1137-height-checker](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1217-relative-sort-array) |
@@ -102,6 +105,7 @@
 | [0435-non-overlapping-intervals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1129-longest-string-chain](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1129-longest-string-chain) |
 | [1137-height-checker](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1217-relative-sort-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -145,6 +149,7 @@
 | [0940-fruit-into-baskets](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1044-find-common-characters) |
+| [1129-longest-string-chain](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1129-longest-string-chain) |
 | [1217-relative-sort-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1217-relative-sort-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
@@ -211,6 +216,7 @@
 | [0494-target-sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0542-01-matrix) |
+| [1129-longest-string-chain](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1129-longest-string-chain) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
 # Simulation
 |  |
