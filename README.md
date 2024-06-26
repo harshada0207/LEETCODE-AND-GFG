@@ -60,6 +60,7 @@
 | [0542-01-matrix](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0648-replace-words) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0733-flood-fill) |
 | [0940-fruit-into-baskets](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0940-fruit-into-baskets) |
@@ -216,6 +217,7 @@
 | [0494-target-sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0542-01-matrix) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1129-longest-string-chain](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1129-longest-string-chain) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
 # Simulation
@@ -333,3 +335,11 @@
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1285-balance-a-binary-search-tree) |
+# Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0673-number-of-longest-increasing-subsequence) |
+# Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0673-number-of-longest-increasing-subsequence) |
