@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0215-kth-largest-element-in-an-array) |
+| [1285-balance-a-binary-search-tree](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1285-balance-a-binary-search-tree) |
 # Sorting
 |  |
 | ------- |
@@ -128,6 +129,7 @@
 | [0435-non-overlapping-intervals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1285-balance-a-binary-search-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -246,6 +248,7 @@
 | [0820-find-eventual-safe-states](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1073-number-of-enclaves) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1285-balance-a-binary-search-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -313,11 +316,14 @@
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1285-balance-a-binary-search-tree) |
