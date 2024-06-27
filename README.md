@@ -81,6 +81,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1675-magnetic-force-between-two-balls) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1962-single-threaded-cpu](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1962-single-threaded-cpu) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -136,6 +137,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1285-balance-a-binary-search-tree](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1285-balance-a-binary-search-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -220,6 +222,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1129-longest-string-chain](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1129-longest-string-chain) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 # Simulation
 |  |
 | ------- |
@@ -330,6 +333,7 @@
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1285-balance-a-binary-search-tree) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 # Binary Tree
 |  |
 | ------- |
