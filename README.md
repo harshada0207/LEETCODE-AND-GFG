@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0875-longest-mountain-in-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0875-longest-mountain-in-array) |
 | [1129-longest-string-chain](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1129-longest-string-chain) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -63,6 +64,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0733-flood-fill) |
+| [0875-longest-mountain-in-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0875-longest-mountain-in-array) |
 | [0940-fruit-into-baskets](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0940-fruit-into-baskets) |
 | [0978-valid-mountain-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0978-valid-mountain-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -206,6 +208,7 @@
 # Enumeration
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0875-longest-mountain-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1993-sum-of-all-subset-xor-totals) |
 # Dynamic Programming
 |  |
@@ -221,6 +224,7 @@
 | [0518-coin-change-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0875-longest-mountain-in-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0875-longest-mountain-in-array) |
 | [1129-longest-string-chain](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1129-longest-string-chain) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
