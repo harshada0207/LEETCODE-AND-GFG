@@ -64,6 +64,7 @@
 | [0695-max-area-of-island](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0733-flood-fill) |
 | [0940-fruit-into-baskets](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0940-fruit-into-baskets) |
+| [0978-valid-mountain-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0978-valid-mountain-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1036-rotting-oranges) |
