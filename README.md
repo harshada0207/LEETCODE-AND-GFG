@@ -65,6 +65,7 @@
 | [0695-max-area-of-island](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0733-flood-fill) |
 | [0875-longest-mountain-in-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0875-longest-mountain-in-array) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0940-fruit-into-baskets) |
 | [0978-valid-mountain-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0978-valid-mountain-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -336,6 +337,7 @@
 # Binary Search Tree
 |  |
 | ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1285-balance-a-binary-search-tree) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
