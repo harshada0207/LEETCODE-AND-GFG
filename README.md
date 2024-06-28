@@ -118,6 +118,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1675-magnetic-force-between-two-balls) |
 | [1962-single-threaded-cpu](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1962-single-threaded-cpu) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2379-maximum-total-importance-of-roads) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1962-single-threaded-cpu](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1962-single-threaded-cpu) |
+| [2379-maximum-total-importance-of-roads](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2379-maximum-total-importance-of-roads) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 # Quickselect
 |  |
@@ -143,6 +145,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2379-maximum-total-importance-of-roads) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 # Hash Table
@@ -306,6 +309,7 @@
 | [0210-course-schedule-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0820-find-eventual-safe-states) |
+| [2379-maximum-total-importance-of-roads](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2379-maximum-total-importance-of-roads) |
 # Sliding Window
 |  |
 | ------- |
