@@ -358,3 +358,18 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0673-number-of-longest-increasing-subsequence) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0074-search-a-2d-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0074-search-a-2d-matrix) |
+<!---LeetCode Topics End-->
