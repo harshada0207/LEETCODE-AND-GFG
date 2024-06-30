@@ -382,4 +382,20 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0240-search-a-2d-matrix-ii) |
+## Math
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1086-divisor-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1086-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
