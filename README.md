@@ -367,6 +367,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0646-maximum-length-of-pair-chain) |
+| [0747-min-cost-climbing-stairs](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0747-min-cost-climbing-stairs) |
 | [1293-three-consecutive-odds](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1293-three-consecutive-odds) |
 | [2047-find-a-peak-element-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2047-find-a-peak-element-ii) |
 ## Binary Search
@@ -394,6 +395,7 @@
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0646-maximum-length-of-pair-chain) |
+| [0747-min-cost-climbing-stairs](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0747-min-cost-climbing-stairs) |
 | [1086-divisor-game](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1086-divisor-game) |
 ## Brainteaser
 |  |
