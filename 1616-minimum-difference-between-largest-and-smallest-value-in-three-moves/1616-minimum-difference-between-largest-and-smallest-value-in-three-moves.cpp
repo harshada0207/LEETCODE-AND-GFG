@@ -2,7 +2,7 @@ class Solution {
 public:
     int minDifference(vector<int>& nums) {
         int n=nums.size();
-        if(n<4) return 0;
+        if(n<=4) return 0;
 
         //sort the array
         sort(nums.begin(),nums.end());
