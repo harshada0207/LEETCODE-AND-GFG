@@ -363,6 +363,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -387,6 +388,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
@@ -395,6 +397,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0053-maximum-subarray) |
 | [0097-interleaving-string](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0097-interleaving-string) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-min-cost-climbing-stairs](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0747-min-cost-climbing-stairs) |
