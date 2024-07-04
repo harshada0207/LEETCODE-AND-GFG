@@ -428,6 +428,7 @@
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0584-find-customer-referee) |
 | [1153-product-sales-analysis-i](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
