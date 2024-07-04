@@ -429,4 +429,12 @@
 |  |
 | ------- |
 | [1153-product-sales-analysis-i](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1153-product-sales-analysis-i) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2299-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
