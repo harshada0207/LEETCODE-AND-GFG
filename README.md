@@ -420,6 +420,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0076-minimum-window-substring) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
@@ -458,6 +459,7 @@
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0097-interleaving-string) |
 ## Queue
 |  |
@@ -467,4 +469,8 @@
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0954-maximum-sum-circular-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
