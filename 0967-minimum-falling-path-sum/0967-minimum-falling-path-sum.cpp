@@ -1,26 +1,6 @@
 class Solution {
 public:
-    int solve(int col ,int row,vector<vector<int>>& matrix,int m,vector<vector<int>>&dp)
-    {
-       
-        if(col<0 || col>=m)
-        {
-            return 1e9;
-        }
-        if(row==0)
-        {
-          return matrix[0][col];
-        }
-        if(dp[row][col]!=-1)
-        {
-            return dp[row][col];
-        }
-        int one=matrix[row][col]+solve(col,row-1,matrix,m,dp);
-        int two=matrix[row][col]+solve(col-1,row-1,matrix,m,dp);
-        int three=matrix[row][col]+solve(col+1,row-1,matrix,m,dp);
-
-        return dp[row][col]=min(one,min(two,three));
-    }
+  
     int minFallingPathSum(vector<vector<int>>& matrix) {
         int n=matrix.size();
         int m=matrix[0].size();
