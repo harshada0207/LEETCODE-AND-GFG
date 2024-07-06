@@ -398,6 +398,7 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1086-divisor-game) |
+| [2645-pass-the-pillow](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -456,6 +457,7 @@
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2645-pass-the-pillow) |
 ## String
 |  |
 | ------- |
