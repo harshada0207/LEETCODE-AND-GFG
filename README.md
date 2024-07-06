@@ -365,6 +365,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0074-search-a-2d-matrix) |
+| [0221-maximal-square](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0646-maximum-length-of-pair-chain) |
@@ -385,6 +386,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0074-search-a-2d-matrix) |
+| [0221-maximal-square](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0240-search-a-2d-matrix-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0967-minimum-falling-path-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2047-find-a-peak-element-ii) |
@@ -404,6 +406,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0053-maximum-subarray) |
 | [0097-interleaving-string](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0097-interleaving-string) |
+| [0221-maximal-square](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0221-maximal-square) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-min-cost-climbing-stairs](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0806-domino-and-tromino-tiling) |
