@@ -372,6 +372,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0967-minimum-falling-path-sum) |
+| [1025-minimum-cost-for-tickets](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1025-minimum-cost-for-tickets) |
 | [1293-three-consecutive-odds](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2047-find-a-peak-element-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2047-find-a-peak-element-ii) |
@@ -412,6 +413,7 @@
 | [0806-domino-and-tromino-tiling](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0806-domino-and-tromino-tiling) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0967-minimum-falling-path-sum) |
+| [1025-minimum-cost-for-tickets](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1025-minimum-cost-for-tickets) |
 | [1086-divisor-game](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1086-divisor-game) |
 ## Brainteaser
 |  |
