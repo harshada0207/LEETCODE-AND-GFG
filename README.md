@@ -375,6 +375,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1025-minimum-cost-for-tickets) |
 | [1293-three-consecutive-odds](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2047-find-a-peak-element-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2047-find-a-peak-element-ii) |
 ## Binary Search
 |  |
@@ -402,6 +403,7 @@
 | ------- |
 | [1086-divisor-game](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1086-divisor-game) |
 | [1642-water-bottles](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
 |  |
@@ -463,6 +465,7 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2645-pass-the-pillow) |
 ## String
@@ -474,6 +477,7 @@
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0954-maximum-sum-circular-subarray) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -482,4 +486,8 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0076-minimum-window-substring) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
