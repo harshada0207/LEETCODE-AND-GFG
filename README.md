@@ -375,6 +375,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1025-minimum-cost-for-tickets) |
 | [1293-three-consecutive-odds](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1803-average-waiting-time](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1803-average-waiting-time) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2047-find-a-peak-element-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2047-find-a-peak-element-ii) |
@@ -467,6 +468,7 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1642-water-bottles) |
+| [1803-average-waiting-time](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2645-pass-the-pillow) |
