@@ -379,6 +379,7 @@
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2047-find-a-peak-element-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2047-find-a-peak-element-ii) |
+| [2502-sort-the-people](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2502-sort-the-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -433,6 +434,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0076-minimum-window-substring) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2502-sort-the-people](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -443,6 +445,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0646-maximum-length-of-pair-chain) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2502-sort-the-people](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2502-sort-the-people) |
 ## Greedy
 |  |
 | ------- |
@@ -477,6 +480,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0097-interleaving-string) |
+| [2502-sort-the-people](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2502-sort-the-people) |
 ## Queue
 |  |
 | ------- |
