@@ -374,6 +374,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1025-minimum-cost-for-tickets) |
 | [1293-three-consecutive-odds](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1293-three-consecutive-odds) |
+| [1333-sort-the-jumbled-numbers](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1803-average-waiting-time) |
@@ -446,6 +447,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0646-maximum-length-of-pair-chain) |
+| [1333-sort-the-jumbled-numbers](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/2502-sort-the-people) |
