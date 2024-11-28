@@ -365,6 +365,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0074-search-a-2d-matrix) |
+| [0189-rotate-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0189-rotate-array) |
 | [0221-maximal-square](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -409,6 +410,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0189-rotate-array) |
 | [1086-divisor-game](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1086-divisor-game) |
 | [1642-water-bottles](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -444,6 +446,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanu0207/LEETCODE-AND-GFG/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
